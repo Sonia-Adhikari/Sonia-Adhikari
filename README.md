@@ -1,176 +1,89 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Sonia+Adhikari+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+MySQL;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
+# Hi, I'm Sonia Adhikari 👋
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,docker,html,css,js,vscode,figma&perline=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Always+Learning+And+Growing" />
 </p>
-
-
-# 🚀 About Me
-
-I'm an aspiring **Java Backend Developer** with a strong interest in building scalable, maintainable, and production-ready backend applications using the Spring ecosystem.
-
-I enjoy designing layered architectures, developing RESTful APIs, working with relational databases, and continuously strengthening my problem-solving skills through Data Structures & Algorithms.
-
- A few things I enjoy working on:
-
-- ☕ Writing clean Java code
-- 🌱 Building RESTful APIs
-- 🗄️ Working with MySQL databases
-- 🧩 Solving Data Structures & Algorithms
-- 📚 Learning new backend technologies
-
-
-
-
-# 💻 Tech Stack
-
-### Languages
-
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- JDBC
-- REST APIs
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Apache Maven
-- Swagger UI
-- Postman
-- Lombok
-- VS Code
-
-
-
-
-# 🚀 Featured Projects
-
-## ✈️ Spring Boot Airlines API *(Coming Soon)*
-
- A production-style Airline Management REST API built using Spring Boot following a clean layered architecture (Controller → Service → Repository).
-
-### Features
-
-- RESTful API Development
-- Layered Architecture
-- Spring Data JPA & Hibernate
-- MySQL Integration
-- Swagger UI Documentation
-- Maven Project Structure
-
-### Features
-
-- Layered Architecture
-- REST APIs
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Swagger UI
-- Maven
-
-
-
-
-## 🌐 SoniaPortfolio
-
-Responsive personal portfolio showcasing my skills and projects.
-
-**Built with**
-
-- HTML
-- CSS
-- JavaScript
-
-
-
-
-## 🍔 FoodieHub
-
-Modern responsive restaurant landing page.
-
-**Built with**
-
-- HTML
-- CSS
-- JavaScript
-
-
-
-
-# 🧠 Data Structures & Algorithms
-
-I regularly solve DSA problems to improve analytical thinking and write optimized code.
-
-### Practice Areas
-
-- Arrays
-- Strings
-- Hash Maps
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
-🔗 **LeetCode:** [Sonia_Adhikari](https://leetcode.com/Sonia_Adhikari)
-
-
-
-
-# 📚 Currently Learning
-
-- Spring Security
-- JWT Authentication
-- Docker
-- Spring Cloud
-- Microservices
-
-
-
-
-# 🎯 2026 Goals
-
-- ✅ Build Production Ready Spring Boot Applications
-- ✅ Master Spring Security & JWT
-- ✅ Learn Docker
-- ✅ Build a Microservices Project
-- ✅ Contribute to Open Source
-- ✅ Strengthen problem-solving through consistent LeetCode practice
-
-
-
-
-# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sonia-Adhikari&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,docker,html,css,js,vscode&perline=6" />
 </p>
 
+---
 
+## 👨‍💻 About Me
 
+Aspiring **Java Backend Developer** passionate about building scalable backend applications using the Spring ecosystem.
 
-# 📫 Connect With Me
+* ☕ Java & OOP
+* 🚀 Spring Boot & REST APIs
+* 🗄️ MySQL & Hibernate
+* 🧩 Data Structures & Algorithms
+* 🌱 Currently learning Spring Security, JWT & Docker
 
-- GitHub: [Sonia-Adhikari](https://github.com/Sonia-Adhikari)
-- LinkedIn: [Sonia Adhikari](https://www.linkedin.com/in/sonia-adhikari-3b138a26a/)
-- LeetCode: [Sonia_Adhikari](https://leetcode.com/Sonia_Adhikari)
+---
 
+## 🛠 Tech Stack
 
+**Languages:** Java • SQL • HTML • CSS • JavaScript
 
-⭐ **Thanks for visiting my profile!**
+**Backend:** Spring Boot • Spring Data JPA • Hibernate • JDBC • REST APIs
+
+**Database:** MySQL
+
+**Tools:** Git • GitHub • Maven • Postman • Swagger UI • Lombok • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Airline Management API *(Coming Soon)*
+
+Production-style REST API built with Spring Boot using layered architecture.
+
+**Tech:** Spring Boot • JPA • Hibernate • MySQL • Swagger • Maven
+
+### 🌐 SoniaPortfolio
+
+Responsive portfolio website built with HTML, CSS & JavaScript.
+
+### 🍔 FoodieHub
+
+Responsive restaurant landing page built with HTML, CSS & JavaScript.
+
+---
+
+## 🧠 DSA
+
+I regularly solve coding problems to improve problem-solving and write optimized solutions.
+
+**Topics:** Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
+
+🔗 **LeetCode:** https://leetcode.com/Sonia_Adhikari
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready Spring Boot applications
+* Master Spring Security & JWT
+* Learn Docker & Microservices
+* Contribute to Open Source
+* Solve DSA consistently
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sonia-Adhikari&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/Sonia-Adhikari
+* LinkedIn: https://www.linkedin.com/in/sonia-adhikari-3b138a26a/
+* LeetCode: https://leetcode.com/Sonia_Adhikari
+
+⭐ Thanks for visiting my profile!
