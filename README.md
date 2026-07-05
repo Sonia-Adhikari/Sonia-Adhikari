@@ -1,23 +1,29 @@
 # Hi, I'm Sonia Adhikari 👋
 
-**Focused strictly on Enterprise Java & Backend Engineering.** Believer in clean multi-layered application architectures, efficient database querying, and self-documenting APIs via Swagger.
-
----
-
-### 🎯 Competitive Programming & Data Structures
-
-[![Sonia's LeetCode Stats](https://jacoblin.cool)](https://leetcode.com)
+**Focused strictly on Enterprise Java & Backend Engineering.** Believer in clean multi-layered application architectures, efficient database querying, and self-documenting REST APIs via Swagger.
 
 ---
 
 ### 🛠️ Backend Ecosystem & Tooling
 
-![Java](https://shields.io) ![Spring Boot](https://shields.io) ![MySQL](https://shields.io) ![Maven](https://shields.io) ![Swagger](https://shields.io) ![Figma](https://shields.io) ![Git](https://shields.io)
+* **Core Language:** Java
+* **Framework:** Spring Boot (Config, Controller, DTO, Entity, Repository, Service)
+* **Database:** MySQL
+* **Build Tool:** Apache Maven
+* **API Documentation:** Swagger UI
+* **Design Systems:** Figma
+* **Version Control:** Git & GitHub
+
+---
+
+### 🎯 Data Structures & Algorithms
+* **LeetCode Profile:** [Sonia_Adhikari](https://leetcode.com) 
+* **Focus Area:** Solving structural array, map, and algorithmic problems to optimize application speed.
 
 ---
 
 ### 📂 Production-Grade System Repositories
-* ✈️ **Spring Boot Airlines Project** - A production-ready REST API featuring explicit layer boundaries: `config`, `controller`, `dto`, `entity`, `repository`, and `service`. Uses Swagger UI for active endpoint testing and schema validation.
+* ✈️ **Spring Boot Airlines Project** - A backend REST API featuring explicit layered separation layers. Uses Swagger UI for active endpoint testing and schema validation. *(Uploading via VS Code next!)*
 
 ---
 
@@ -25,4 +31,3 @@
 * 🔐 **Spring Security & JWT** — Constructing robust token-based authorization and sessionless microservice safeguards.
 * 🐳 **Dockerization** — Wrapping backend builds inside consistent, isolated deployment containers.
 * 🕸️ **Microservices** — Decoupling large service architectures into independent cloud modules using Spring Cloud.
-
